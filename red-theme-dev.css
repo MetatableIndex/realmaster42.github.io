@@ -1324,7 +1324,7 @@ filter: opacity(100%);
 .text.form-control,
 #file-comments,
 .form .text{
-    background-color: #752d2d!important;
+    background-color: #210f0f!important;
     border: 1px solid #2c3340!important;
     color: #ccc!important;
 }
